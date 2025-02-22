@@ -43,6 +43,7 @@ CREATE TABLE Client (
     Email VARCHAR(255) NOT NULL UNIQUE,
     RegistrationDate DATE NOT NULL
 );
+```
 
 ### 2. Pet Table
 ```sql
